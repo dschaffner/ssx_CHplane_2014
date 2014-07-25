@@ -1,0 +1,13 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: SSX PE paper.aux
+The style file: plain.bst
+Database file #1: SSX*PE*paperNotes.bib
+Database file #2: master.bib
+Repeated entry---line 176 of file master.bib
+ : @article{schaffner2014
+ :                       ,
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of "D.A. Schaffner, V.S. Lukin, A. Wan, M.R. Brown" for entry schaffner2014
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "D.A. Schaffner, V.S. Lukin, A. Wan, M.R. Brown" for entry schaffner2014
+while executing---line 1090 of file plain.bst
+(There were 3 error messages)

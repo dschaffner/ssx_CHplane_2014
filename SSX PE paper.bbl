@@ -1,0 +1,171 @@
+\begin{thebibliography}{10}
+
+\bibitem{amigo2008}
+J.~M. Amig{\'o}, S.~Zambrano, and M.~A.~F. Sanju{\'a}n.
+\newblock Combinatorial detection of determinism in noisy time series.
+\newblock {\em EPL (Europhysics Letters)}, 83(6):60005, 2008.
+
+\bibitem{bandt2005}
+Christoph Bandt.
+\newblock Ordinal time series analysis.
+\newblock {\em Ecological Modelling}, 182(3–4):229 -- 238, 2005.
+\newblock Scaling, fractals and diversity in soils and ecohydrology.
+
+\bibitem{bandt2002}
+Christoph Bandt and Bernd Pompe.
+\newblock Permutation entropy: A natural complexity measure for time series.
+\newblock {\em Phys. Rev. Lett.}, 88:174102, Apr 2002.
+
+\bibitem{bariviera2013}
+Aurelio~Fernandez Bariviera, Luciano Zunino, M~Bel\'{o}n Guercio, Lisana~B
+  Martinez, and Osvaldo~A Rosso.
+\newblock Efficiency and credit ratings: a permutation-information-theory
+  analysis.
+\newblock {\em Journal of Statistical Mechanics: Theory and Experiment},
+  2013(08):P08007, 2013.
+
+\bibitem{calbet2001}
+Xavier Calbet and Ricardo L{\'o}pez-Ruiz.
+\newblock Tendency towards maximum complexity in a nonequilibrium isolated
+  system.
+\newblock {\em Phys. Rev. E}, 63:066116, May 2001.
+
+\bibitem{schaffner2014}
+A.~Wan M.R.~Brown D.A.~Schaffner, V.S.~Lukin.
+\newblock Turbulence analysis of an experimental flux rope plasma.
+\newblock {\em Plasma Physics and Controlled Fusion}, 56:20, 2014.
+
+\bibitem{feldman1998}
+David~P Feldman and James~P Crutchfield.
+\newblock Measures of statistical complexity: Why?
+\newblock {\em Physics Letters A}, 238(4–5):244 -- 252, 1998.
+
+\bibitem{gekelman2014}
+Walter Gekelman, Bart~Van Compernolle, Tim DeHaas, and Stephen Vincena.
+\newblock Chaos in magnetic flux ropes.
+\newblock {\em Plasma Physics and Controlled Fusion}, 56(6):064002, 2014.
+
+\bibitem{gray2013}
+T.~Gray, M.~R. Brown, and D.~Dandurand.
+\newblock Observation of a relaxed plasma state in a quasi-infinite cylinder.
+\newblock {\em Phys. Rev. Lett.}, 110:085002, Feb 2013.
+
+\bibitem{jordan2008}
+Denis Jordan, Gudrun Stockmanns, Eberhard~F. Kochs, Stefanie Pilge, and Gerhard
+  Schneider.
+\newblock Electroencephalographic order pattern analysis for the separation of
+  consciousness and unconsciousness: An analysis of approximate entropy,
+  permutation entropy, recurrence rate, and phase coupling of order recurrence
+  plots.
+\newblock {\em Anesthesiology}, 109(6), 2008.
+
+\bibitem{kowalski2007}
+A.M. Kowalski, M.T. Mart{\'i}n, A.~Plastino, and O.A. Rosso.
+\newblock Bandt-pompe approach to the classical-quantum transition.
+\newblock {\em Physica D: Nonlinear Phenomena}, 233(1):21 -- 31, 2007.
+
+\bibitem{lamberti2004}
+P.W Lamberti, M.T Martin, A~Plastino, and O.A Rosso.
+\newblock Intensive entropic non-triviality measure.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  334(1–2):119 -- 131, 2004.
+
+\bibitem{li2010}
+Duan Li, Xiaoli Li, Zhenhu Liang, Logan~J Voss, and Jamie~W Sleigh.
+\newblock Multiscale permutation entropy analysis of eeg recordings during
+  sevoflurane anesthesia.
+\newblock {\em Journal of Neural Engineering}, 7(4):046010, 2010.
+
+\bibitem{lopez1995}
+R.~L{\'o}pez-Ruiz, H.L. Mancini, and X.~Calbet.
+\newblock A statistical measure of complexity.
+\newblock {\em Physics Letters A}, 209(5–6):321 -- 326, 1995.
+
+\bibitem{maggs2012}
+J~E Maggs and G~J Morales.
+\newblock Exponential power spectra, deterministic chaos and lorentzian pulses
+  in plasma edge dynamics.
+\newblock {\em Plasma Physics and Controlled Fusion}, 54(12):124041, 2012.
+
+\bibitem{maggs2013}
+J~E Maggs and G~J Morales.
+\newblock Permutation entropy analysis of temperature fluctuations from a basic
+  electron heat transport experiment.
+\newblock {\em Plasma Physics and Controlled Fusion}, 55(8):085015, 2013.
+
+\bibitem{olofsen2008}
+E.~Olofsen, J.~W. Sleigh, and A.~Dahan.
+\newblock Permutation entropy of the electroencephalogram: a measure of
+  anaesthetic drug effect.
+\newblock {\em British Journal of Anaesthesia}, 101(6):810--821, 2008.
+
+\bibitem{riedl2013}
+M.~Riedl, A.~M{\"u}ller, and N.~Wessel.
+\newblock Practical considerations of permutation entropy.
+\newblock {\em The European Physical Journal Special Topics}, 222(2):249--262,
+  2013.
+
+\bibitem{rosso2007}
+O.~A. Rosso, H.~A. Larrondo, M.~T. Martin, A.~Plastino, and M.~A. Fuentes.
+\newblock Distinguishing noise from chaos.
+\newblock {\em Phys. Rev. Lett.}, 99:154102, Oct 2007.
+
+\bibitem{saco2010}
+Patricia~M. Saco, Laura~C. Carpi, Alejandra Figliola, Eduardo Serrano, and
+  Osvaldo~A. Rosso.
+\newblock Entropy analysis of the dynamics of el ni{\~n}o/southern oscillation
+  during the holocene.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  389(21):5022 -- 5027, 2010.
+
+\bibitem{soriano2011}
+M.C. Soriano, L.~Zunino, O.A. Rosso, Ingo Fischer, and C.R. Mirasso.
+\newblock Time scales of a chaotic semiconductor laser with optical feedback
+  under the lens of a permutation information analysis.
+\newblock {\em Quantum Electronics, IEEE Journal of}, 47(2):252--261, Feb 2011.
+
+\bibitem{sun2010}
+Xiaoliang Sun, Yong Zou, Victoria Nikiforova, Jurgen Kurths, and Dirk Walther.
+\newblock The complexity of gene expression dynamics revealed by permutation
+  entropy.
+\newblock {\em BMC Bioinformatics}, 11(1):607, 2010.
+
+\bibitem{suyal2012}
+Vinita Suyal, Awadhesh Prasad, and HarinderP. Singh.
+\newblock Hysteresis in a solar activity cycle.
+\newblock {\em Solar Physics}, 276(1-2):407--414, 2012.
+
+\bibitem{zanin2012}
+Massimiliano Zanin, Luciano Zunino, Osvaldo~A. Rosso, and David Papo.
+\newblock Permutation entropy and its main biomedical and econophysics
+  applications: A review.
+\newblock {\em Entropy}, 14(8):1553--1577, 2012.
+
+\bibitem{zhang2011}
+X.~Zhang, D.~Dandurand, T.~Gray, M.~R. Brown, and V.~S. Lukin.
+\newblock Calibrated cylindrical mach probe in a plasma wind tunnel.
+\newblock {\em Review of Scientific Instruments}, 82(3):--, 2011.
+
+\bibitem{zunino2012}
+L.~Zunino, M.~C. Soriano, and O.~A. Rosso.
+\newblock Distinguishing chaotic and stochastic dynamics from time series by
+  using a multiscale symbolic approach.
+\newblock {\em Phys. Rev. E}, 86:046210, Oct 2012.
+
+\bibitem{zunino2011}
+Luciano Zunino, Benjamin~M. Tabak, Francesco Serinaldi, Massimiliano Zanin,
+  Darío~G. Pérez, and Osvaldo~A. Rosso.
+\newblock Commodity predictability analysis with a permutation information
+  theory approach.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  390(5):876 -- 890, 2011.
+
+\bibitem{zunino2010}
+Luciano Zunino, Massimiliano Zanin, Benjamin~M. Tabak, Darío~G. Pérez, and
+  Osvaldo~A. Rosso.
+\newblock Complexity-entropy causality plane: A useful approach to quantify the
+  stock market inefficiency.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  389(9):1891 -- 1901, 2010.
+
+\end{thebibliography}
