@@ -6,8 +6,27 @@ Repeated entry---line 176 of file master.bib
  : @article{schaffner2014
  :                       ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "torrence"
 Too many commas in name 1 of "D.A. Schaffner, V.S. Lukin, A. Wan, M.R. Brown" for entry schaffner2014
+while executing---line 1049 of file plain.bst
+Name 1 in "D.A. Schaffner, T.A. Carter, G.D. Rossi, D.S. Guice, J.E. Maggs, S. Vincena, and B. Friedman" has a comma at the end for entry schaffner2012
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "D.A. Schaffner, T.A. Carter, G.D. Rossi, D.S. Guice, J.E. Maggs, S. Vincena, and B. Friedman" for entry schaffner2012
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "D.A. Schaffner, T.A. Carter, G.D. Rossi, D.S. Guice, J.E. Maggs, S. Vincena, and B. Friedman" for entry schaffner2012
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "D.A. Schaffner, T.A. Carter, G.D. Rossi, D.S. Guice, J.E. Maggs, S. Vincena, and B. Friedman" for entry schaffner2012
 while executing---line 1049 of file plain.bst
 Too many commas in name 1 of "D.A. Schaffner, V.S. Lukin, A. Wan, M.R. Brown" for entry schaffner2014
 while executing---line 1090 of file plain.bst
-(There were 3 error messages)
+Name 1 in "D.A. Schaffner, T.A. Carter, G.D. Rossi, D.S. Guice, J.E. Maggs, S. Vincena, and B. Friedman" has a comma at the end for entry schaffner2012
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "D.A. Schaffner, T.A. Carter, G.D. Rossi, D.S. Guice, J.E. Maggs, S. Vincena, and B. Friedman" for entry schaffner2012
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "D.A. Schaffner, T.A. Carter, G.D. Rossi, D.S. Guice, J.E. Maggs, S. Vincena, and B. Friedman" for entry schaffner2012
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "D.A. Schaffner, T.A. Carter, G.D. Rossi, D.S. Guice, J.E. Maggs, S. Vincena, and B. Friedman" for entry schaffner2012
+while executing---line 1090 of file plain.bst
+Warning--empty title in schaffner2012
+Warning--empty title in torrence1998
+(There were 11 error messages)

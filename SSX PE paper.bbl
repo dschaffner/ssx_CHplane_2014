@@ -35,6 +35,11 @@ A.~Wan M.R.~Brown D.A.~Schaffner, V.S.~Lukin.
 \newblock Turbulence analysis of an experimental flux rope plasma.
 \newblock {\em Plasma Physics and Controlled Fusion}, 56:20, 2014.
 
+\bibitem{schaffner2012}
+G.D. Rossi D.S. Guice J.E. Maggs S.~Vincena D.A.~Schaffner, T.A.~Carter and
+  B.~Friedman.
+\newblock {\em Phys. Rev. Lett.}, 109:135002, 2012.
+
 \bibitem{feldman1998}
 David~P Feldman and James~P Crutchfield.
 \newblock Measures of statistical complexity: Why?
@@ -134,6 +139,10 @@ Xiaoliang Sun, Yong Zou, Victoria Nikiforova, Jurgen Kurths, and Dirk Walther.
 Vinita Suyal, Awadhesh Prasad, and HarinderP. Singh.
 \newblock Hysteresis in a solar activity cycle.
 \newblock {\em Solar Physics}, 276(1-2):407--414, 2012.
+
+\bibitem{torrence1998}
+C.~Torrence and G.P. Compo.
+\newblock {\em Bull. Am. Meteorol. Soc.}, 79:6178, 1998.
 
 \bibitem{zanin2012}
 Massimiliano Zanin, Luciano Zunino, Osvaldo~A. Rosso, and David Papo.
