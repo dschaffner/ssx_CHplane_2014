@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.26)  26 JUL 2014 00:43
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.26)  28 JUL 2014 16:57
 entering extended mode
 **C:/Users/David*Schaffner/Documents/GitHub/ssx_CHplane_2014/SSX*PE*paper.tex
 ("C:/Users/David Schaffner/Documents/GitHub/ssx_CHplane_2014/SSX PE paper.tex"
@@ -306,119 +306,79 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 39.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
- [1{C:/Users/David Schaffner/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-]
-<fig1new.png, id=13, 578.16pt x 433.62pt>
+) [1{C:/Users/David Schaffner/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+}] [2]
+<fig1new.png, id=25, 578.16pt x 433.62pt>
 File: fig1new.png Graphic file (type png)
  <use fig1new.png>
-Package pdftex.def Info: fig1new.png used on input line 79.
+Package pdftex.def Info: fig1new.png used on input line 81.
 (pdftex.def)             Requested size: 241.84842pt x 181.38472pt.
- [2]
-<spectra.png, id=25, 291.9708pt x 262.8219pt>
+
+<spectra.png, id=27, 291.9708pt x 262.8219pt>
 File: spectra.png Graphic file (type png)
  <use spectra.png>
-Package pdftex.def Info: spectra.png used on input line 85.
+Package pdftex.def Info: spectra.png used on input line 87.
 (pdftex.def)             Requested size: 241.84842pt x 217.70097pt.
-
-<fig2.png, id=26, 578.16pt x 433.62pt>
-File: fig2.png Graphic file (type png)
- <use fig2.png>
-Package pdftex.def Info: fig2.png used on input line 94.
-(pdftex.def)             Requested size: 241.84842pt x 181.38472pt.
-
-<fig3.png, id=27, 578.16pt x 433.62pt>
-File: fig3.png Graphic file (type png)
- <use fig3.png>
-Package pdftex.def Info: fig3.png used on input line 100.
-(pdftex.def)             Requested size: 241.84842pt x 181.38472pt.
-
-
-LaTeX Warning: Reference `schaffner2012' on page 3 undefined on input line 106.
-
-
-[3 <C:/Users/David Schaffner/Documents/GitHub/ssx_CHplane_2014/fig1new.png> <C:
-/Users/David Schaffner/Documents/GitHub/ssx_CHplane_2014/spectra.png>]
-
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 107.
-
-[4 <C:/Users/David Schaffner/Documents/GitHub/ssx_CHplane_2014/fig2.png> <C:/Us
-ers/David Schaffner/Documents/GitHub/ssx_CHplane_2014/fig3.png>]
+ [3 <C:/Users/David Schaffner/Documents/GitHub/ssx_CHplane_2014/fig1new.png> <C
+:/Users/David Schaffner/Documents/GitHub/ssx_CHplane_2014/spectra.png>] [4]
 ("C:\Users\David Schaffner\Documents\GitHub\ssx_CHplane_2014\SSX PE paper.bbl"
-[5]
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ì in font cmr9!
-
-Underfull \hbox (badness 5970) in paragraph at lines 39--42
- []\OT1/cmr/m/n/9 G.D. Rossi D.S. Guice J.E. Maggs S. Vin-cena
+Underfull \hbox (badness 10000) in paragraph at lines 92--101
+ []\OT1/cmr/m/n/9 E. Olof-sen, J. W. Sleigh,  and A. Da-han,
  []
 
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ì in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ì in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ì in font cmr9!
-Missing character: There is no √ in font cmr9!
-Missing character: There is no ≠ in font cmr9!
+
+Underfull \hbox (badness 5245) in paragraph at lines 92--101
+ \OT1/cmr/m/n/9 British Jour-nal of Anaes-the-sia \OT1/cmr/bx/n/9 101\OT1/cmr/m
+/n/9 , 810 (2008),
+ []
+
+
+Overfull \hbox (30.99054pt too wide) in paragraph at lines 92--101
+ \OT1/cmr/m/n/9 http://bja.oxfordjournals.org/content/101/6/810.full.pdf+html. 
+
+ []
+
 Missing character: There is no √ in font cmr9!
 Missing character: There is no © in font cmr9!
 Missing character: There is no √ in font cmr9!
-Missing character: There is no ≠ in font cmr9!
-Missing character: There is no √ in font cmr9!
 Missing character: There is no © in font cmr9!
 
-Underfull \hbox (badness 1558) in paragraph at lines 173--179
- []\OT1/cmr/m/n/9 Luciano Zunino, Mas-si-m-il-iano Zanin, Ben-jamin M.
+Underfull \hbox (badness 1527) in paragraph at lines 193--199
+ []\OT1/cmr/m/n/9 X. Sun, Y. Zou, V. Niki-forova, J. Kurths,  and
  []
 
-) [6]
+[5]) [6]
 ("C:\Users\David Schaffner\Documents\GitHub\ssx_CHplane_2014\SSX PE paper.aux")
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 4539 strings out of 493921
- 58824 string characters out of 3144846
- 140913 words of memory out of 3000000
- 7783 multiletter control sequences out of 15000+200000
+ 4554 strings out of 493921
+ 59098 string characters out of 3144846
+ 141517 words of memory out of 3000000
+ 7800 multiletter control sequences out of 15000+200000
  15387 words of font info for 56 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 34i,14n,28p,2442b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmti9.pfb>
-Output written on "SSX PE paper.pdf" (6 pages, 890868 bytes).
+ 34i,14n,28p,2501b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmti9.pfb>
+Output written on "SSX PE paper.pdf" (6 pages, 529127 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
