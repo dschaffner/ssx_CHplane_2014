@@ -47,7 +47,9 @@ We compute the values of permutation entropy and Jenson-Shannon complexity for m
 
 The MHD wind tunnel configuration of the Swarthmore Spheromak Experiment (SSX) consists of a plasma gun which injects a spheromak of magnetized plasma into an $\sim1$ meter long cylindrical copper flux conserver~\cite{gray2013}. Probes embedded in the chamber collect data on turbulent fluctuations in $\dot{B}$ as the plasma evolves down the length of the tube, eventually relaxing into a Taylor state~\cite{gray2013,schaffner2014a,schaffner2014b,schaffner2014c}. After injection the plasma is completely dynamical, as there is no guide or vacuum field in the body of the chamber. The $\dot{B}$ fluctuation signals for SSX  were recorded by a 16-channel, 3-direction, single-loop pickup coil probe embedded in the midplane of the cylindrical wind tunnel, with a $65$ MHz sampling rate and 14 bit dynamic range. By varying the amount of magnetic flux through the core of the gun, referred to here as ``stuffing flux'', the magnetic helicity of the injected plasma can be finely controlled~\cite{schaffner2014b}. Magnetic helicity corresponds to the degree of twistedness in the magnetic field, so varying injected helicity affects the resulting turbulent dynamics of the plasma as it evolves towards a relaxed Taylor state. 
 
-Multi-day magnetic fluctuation records from both fast and slow solar wind streams measured by the \textit{Wind} spacecraft were selected for comparison. Fast streams are characterized by high velocities, low densities, and  few large-scale structures while slow streams are slower, denser, and more slightly more structured. \textit{Wind} is positioned near 1 AU, and is equipped to collect high cadence (3 s) magnetic field vector data.   The magnetic vector component antiparallel to the direction of mean field (away from the sun) are used in our analyzes. Magnetic fluctuations are on the order of $10$ nT in both the fast and slow stream signals. 
+We compare observations from the Wind spacecraft in the turbulent solar wind to the laboratory plasma experiments. The Wind spacecraft provides high-cadence magnetic field observations of the solar wind using the MFI~\cite{lepping1995} from the L1 Lagrangian point between the Earth and the Sun. Measurements are made 11 times per second using a flux gate magnetometer and then averaged to 3s to remove the spacecraft spin signal from the data. Flux gate measurements provide a DC magnetic field observation by measuring the bias required for no current to flow in a coil of wire while subject to a changing magnetic field. Thus the observations are equivalent to the B(t) observations made in SSX (but not Bdot). The solar wind is very variable but there are broadly two types of solar wind: fast wind (V > 600 km/s) which is emitted from open coronal field lines and is typically low density ($< 5 protons / cm^3$), has few large scale structures and has high amplitude but less developed turbulence, and slow wind, ($V < 500 km/s$) which is typically found in the ecliptic plane and originates from more complex coronal magnetic topology and is denser and more structured than the fast wind with more evolved but lower amplitude turbulence~\cite{tu1990,bruno2013}. Here we use multi-day long intervals of a fast wind stream (dates of interval) and a slow wind stream (dates of interval) with large scale magnetic fluctuations on the order of 10 nT. 
+
+%Multi-day magnetic fluctuation records from both fast and slow solar wind streams measured by the \textit{Wind} spacecraft were selected for comparison. Fast streams are characterized by high velocities, low densities, and  few large-scale structures while slow streams are slower, denser, and more slightly more structured. \textit{Wind} is positioned near 1 AU, and is equipped to collect high cadence (3 s) magnetic field vector data.   The magnetic vector component antiparallel to the direction of mean field (away from the sun) are used in our analyzes. Magnetic fluctuations are on the order of $10$ nT in both the fast and slow stream signals. 
 
 Edge $I_{\rm sat}$ fluctuations on the LAPD were taken using biased Langmuir probes inserted radially from the cylindrical edge of the plasma device. Signals were sampled at 1.5MHz from a radial location of 26cm~\cite{schaffner2012}. The fluctuations in the edge are shown to be dominated by drift-wave modes due to the pressure gradient that develops between the plasma core and the chamber wall~\cite{maggs1996}.
 
@@ -107,7 +109,7 @@ Figure~\ref{fig:CHplane} also shows the positions of both fast and slow stream m
 
 Previous work using frequency spectra has suggested that the edge fluctuations of magnetized plasmas in the Large Plasma Device (LAPD) and other devices are chaotic in nature \cite{maggs2012}. The CH coordinates of the LAPD edge plasma shown in Figure 1 in red was averaged over $25$ shots and $5$ sections of $1000$ values for each shot with no embedding delay. 
 
-The relative coordinates of each measurement show that the solar wind magnetic fluctuations at $1$ AU is the most stochastic-like of the three with permutation entropy and complexity values of (0.964, 0.057) for fast and (0.956, 0.069) for slow wind, both close to that of pure white noise and more random than even classical Brownian motion (fBm with Hurst exponent of $1/2$). The fast stream signal exhibits slightly more entropy and less complexity than the slow stream signal. Although it has been well documented that the solar wind exhibits well-developed turbulence (cite), this is the first time that developed MHD turbulence in an astrophysical plasma has been identified based on a complexity-entropy plane analysis or compared in this manner to other plasma sources.
+The relative coordinates of each measurement show that the solar wind magnetic fluctuations at $1$ AU is the most stochastic-like of the three with permutation entropy and complexity values of (0.964, 0.057) for fast and (0.956, 0.069) for slow wind, both close to that of pure white noise and more random than even classical Brownian motion (fBm with Hurst exponent of $1/2$). The fast stream signal exhibits slightly more entropy and less complexity than the slow stream signal. Although it has been well documented that the solar wind exhibits well-developed turbulence (cite), this is the first time that developed MHD turbulence in an astrophysical plasma has been identified based on this complexity-entropy plane analysis or compared in this manner to other plasma sources.
 
 Conversely LAPD edge fluctuations are the most chaotic-like with coordinates of (0.441, 0.296), closest of the three measurements to the chaotic models at the top of the CH plane. Although the complexity values for the full LAPD edge are slightly less than that observed in smaller drift-wave experimental setups~\cite{maggs2013}, the relative high complexity compared to the other measurements suggests a larger contribution from chaotic dynamics, likely associated with the non-linear interaction of the drift-wave modes~\cite{maggs2012}. 
 
@@ -130,7 +132,116 @@ In this paper, spectrally-broadband magnetic fluctuations in laboratory and astr
 
 The authors gratefully acknowledge useful discussions with Jim Maggs, George Morales, Walter Gekelman, Brett Friedman, Troy Carter and Danny Guice. This work is supported by DOE OFES and NSF CMSO.
 
-\bibliography{master}
+\begin{thebibliography}{99}
+
+\bibitem{bariviera2013}
+A.F. Bariviera, L. Zunino, M. B. Guercio et al. J. Stat. Mech. Theor. Exp. {\bf 2013} P08007 (2013).
+
+\bibitem{gekelman2014}
+W. Gekelman, B. Van Compernolle, T. DeHaas, and S. Vincena. Plasma Physics. Cont. Fusion. {\bf 56} 064002 (2014).
+
+\bibitem{lopez1995}
+R. L{\'o}pez-Ruiz, H.L. Mancini, and X. Calbet. Phys. Lett. A. {\bf 209} 321 (1995).
+
+\bibitem{amigo2008}
+J. M. Amig{\'o}, S. Zambrano, M. A. F. Sanju{\'a}n. Europhys. Lett. {\bf 83} 60005 (2008).
+
+\bibitem{calbet2001}
+X. Calbet and R.  L{\'o}pez-Ruiz. Phys. Rev. E. {\bf 63} 066116 (2001).
+
+\bibitem{jordan2008}
+D. Jordan, G. Stockmanns, E. F. Kochs, S. Pilge, and G. Schneider. Anesthesiology. {\bf 109} 1014 (2008).
+
+\bibitem{suyal2012}
+V. Suyal, A. Prasad, and H.P. Singh. Sol. Phys. {\b 276} 407 (2012).
+
+\bibitem{sun2010}
+X. Sun, Y. Zou, V. Nikiforova et al. BMC Bioinformatics. {\bf 11} 607 (2010).
+
+\bibitem{saco2010}
+P. M. Saco, L.C. Carpi, A. Figliola et al. Physicsa A. {\bf 389} 5022 (2010).
+
+\bibitem{olofsen2008}
+E. Olofsen, J.W. Sleigh, and A. Dahan. Br J Anaesth. {\bf 101} 810 (2008).
+
+\bibitem{zhang2011}
+X. Zhang, D. Dandurand, T. Gray et al. Rev. Sci. Instrum. {\bf 82} 033510 (2011).
+
+\bibitem{schaffner2014a}
+D. A. Schaffner, V.S. Lukin, A. Wan and M.R. Brown. Plasma Physics Cont. Fusion. {\bf 56} 20 (2014).
+
+\bibitem{gray2013}
+T. Gray, M.R. Brown, and D. Dandurand. Phys. Rev. Lett. {\bf 110} 085002 (2013).
+
+\bibitem{li2010}
+D. Li, X. Li, Z. Liang et al. J Neural Eng. {\bf 7} 046010 (2010).
+
+\bibitem{schaffner2014b}
+D.A. Schaffner, A. Wan, M.R. Brown. Phys. Rev. Lett. {\bf 112} 165001 (2014).
+
+\bibitem{schaffner2014c}
+D.A. Schaffner, V.S. Lukin and M.R. Brown. Astrophys. J. {\bf 790} 126 (2014).
+
+\bibitem{lepping1995}
+R.P. Lepping, M.H. Acuna, L.F. Burlaga et al. Space Sci Rev. {\bf 71} 207 (1995).
+
+\bibitem{Tu1990}
+C.-Y. Tu, E. Marsch and H. Rosenbauer. Geophys. Res. Lett. {\bf 17} 283 (1990).
+
+\bibitem{bruno2013}
+R. Bruno and V. Carbone. Living Rev Solar Phys {\bf 10} (2013).
+
+\bibitem{lamberti2004}
+P.W. Lamberti, M.T. Martin, A. Plastino et al. Physica A. {\bf 334} 119 (2004).
+
+\bibitem{maggs2012}
+J.E. Maggs and G.J. Morales. Plasma Physics Cont. Fusion. {\bf 54} 124041 (2012).
+
+\bibitem{rosso2007}
+O.A. Rosso, H.A. Larrondo, M.T. Martin et al. Phys. Rev. Lett. {\bf 99} 154102 (2007).
+
+\bibitem{bandt2005}
+C. Bandt. Ecol Model. {\bf 182} 229 (2005).
+
+\bibitem{zanin2012}
+M. Zanin, L. Zunino, O.A. Rosso et al. Entropy. {\bf 14} 1553 (2012).
+
+\bibitem{maggs2013}
+J.E. Maggs and G.J. Morales. Plasma Physics Cont. Fusion. {\bf 55} 085015 (2013).
+
+\bibitem{riedl2013}
+M. Riedl, A. M{\"u}ller, and N. Wessel. Eur. Phys. J. Spec. Top. {\bf 222} 249 (2013).
+
+\bibitem{zunino2012}
+L. Zunino, M.C. Soriano, and O.A. Rosso. Phys Rev E. {\bf 86} 046210 (2012).
+
+\bibitem{zunino2010}
+L. Zunino, Z. Massililiano, B. M. Tabak et al. Physica A. {\bf 389} 1891 (2010).
+
+\bibitem{zunino2011}
+L. Zunino, B.M. Tabak, S. Francesco et al. Physica A. {\bf 390} 876 (2011).
+
+\bibitem{soriano2011}
+M.C. Soriano, L. Zunino, O.A. Rosso et al. IEEE J. Quantum Electron. {\bf 47} 252 (2011).
+
+\bibitem{kowalski2007}
+A.M. Kowalski, M.T. Mart{\'i}n, A. Plastino et al. Physica D. {\bf 233} 21 (2007).
+
+\bibitem{feldman1998}
+D.P. Feldman and J.P. Crutchfield. Phys Lett A. {\bf 238} 244 (1998).
+
+\bibitem{bandt2002}
+C. Bandt and B. Pompe. Phys. Rev. Lett. {\bf 88} 174102 (2002).
+
+\bibitem{torrence1998}
+C. Torrence and G.P. Compo. Bull. Am. Meterol. Soc. {\bf 79} 6178 (1998).
+
+\bibitem{schaffner2012}
+D.A. Schaffner, T.A. Carter, G.D. Rossi et al. Phys. Rev. Lett. {\bf 109} 135002 (2012).
+
+\end{thebibliography}
+
+%\bibliography{master}
 %\bibliographystyle{plain}
 %\nocite{*}
 \end{document}

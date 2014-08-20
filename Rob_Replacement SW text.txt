@@ -1,0 +1,19 @@
+﻿Current text:
+
+Multi-day magnetic fluctuation records from both fast and slow solar wind streams measured by the Wind spacecraft were selected for comparison. Fast streams are characterized by high velocities, low densities, and few large-scale structures while slow streams are slower, denser, and more slightly more structured. Wind is positioned near 1 AU, and is equipped to collect high cadence (3 s) magnetic field vector data. The magnetic vector component antiparallel to the direction of mean field (away from the sun) are used in our analyzes. Magnetic fluctuations are on the order of 10 nT in both the fast and slow stream signals.
+
+
+Suggested replacement text:
+
+We compare observations from the Wind spacecraft in the turbulent solar wind to the laboratory plasma experiments. The Wind spacecraft provides high-cadence magnetic field observations of the solar wind using the MFI (cite Lepping et al.,)  from the L1 Lagrangian point between the Earth and the Sun. Measurements are made 11 times per second using a flux gate magnetometer and then averaged to 3s to remove the spacecraft spin signal from the data. Flux gate measurements provide a DC magnetic field observation by measuring the bias required for no current to flow in a coil of wire while subject to a changing magnetic field. Thus the observations are equivalent to the B(t) observations made in SSX (but not Bdot). The solar wind is very variable but there are broadly two types of solar wind: fast wind (V > 600 km/s) which is emitted from open coronal field lines and is typically low density (< 5 protons / cm^3), has few large scale structures and has high amplitude but less developed turbulence, and slow wind, (V < 500 km/s) which is typically found in the ecliptic plane and originates from more complex coronal magnetic topology and is denser and more structured than the fast wind with more evolved but lower amplitude turbulence (cite Tu, Marsch, and Rosenbauer, and Bruno and Carbone). Here we use multi-day long intervals of a fast wind stream (dates of interval) and a slow wind stream (dates of interval) with large scale magnetic fluctuations on the order of 10 nT. 
+
+
+References:
+
+R. P. Lepping, M. H. Acũna, L. F. Burlaga, W. M. Farrell, J. A. Slavin, K. H. Schatten, F. Mariani, N. F. Ness, F. M. Neubauer, Y. C. Whang, J. B. Byrnes, R. S. Kennon, P. V. Panetta, J. Scheifele, E. M. Worley, (1995), The WIND magnetic field investigation, Space Science Reviews, Volume 71, Issue 1-4, pp 207-229.
+
+C.-Y. Tu, E. Marsch and H. Rosenbauer, (1990), The Dependence of MHD Turbulence Spectra on the Inner Solar Wind Stream Structure  Near Solar Minimum, Geophys. Res. Lett., 17, No 3, pp 283-286. 
+
+Roberto Bruno and Vincenzo Carbone, "The Solar Wind as a Turbulence Laboratory", Living Rev. Solar Phys. 10,  (2013),  2. URL (cited on <date>): http://www.livingreviews.org/lrsp-2013-2
+
+

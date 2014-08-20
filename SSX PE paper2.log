@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.8.15)  12 AUG 2014 17:52
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.26)  19 AUG 2014 23:50
 entering extended mode
-**C:/Users/Peter*J*Weck/Documents/SSX/ssx_CHplane_2014/SSX*PE*paper2.tex
-("C:/Users/Peter J Weck/Documents/SSX/ssx_CHplane_2014/SSX PE paper2.tex"
+**C:/Users/David*Schaffner/Documents/GitHub/ssx_CHplane_2014/SSX*PE*paper2.tex
+("C:/Users/David Schaffner/Documents/GitHub/ssx_CHplane_2014/SSX PE paper2.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -14,8 +14,8 @@ ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 
-("C:\Users\Peter J Weck\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\revtex4-1.c
-ls"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\revtex4-
+1.cls"
 Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
 ex4/ for documentation)
  Copyright (c) 2009 The American Physical Society.
@@ -75,7 +75,9 @@ Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
 \widetext@top=\box39
 \widetext@bot=\box40
 Class revtex4-1 Info: Selecting society aps on input line 7542.
-("C:\Users\Peter J Weck\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\aps4-1.rtx"
+
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\aps4-1.r
+tx"
 File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
 mentation)
 Class revtex4-1 Info: RevTeX society APS selected on input line 31.
@@ -87,63 +89,63 @@ Class revtex4-1 Info: APS journal PRE selected on input line 7545.
 Class revtex4-1 Warning: No type size specified, using default 10.
 
 
-("C:\Users\Peter J Weck\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\aps10pt4-1.
-rtx"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\aps10pt4
+-1.rtx"
 File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
 documentation)
 Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
 )
-("C:\Users\Peter J Weck\AppData\Roaming\MiKTeX\2.9\tex\latex\textcase\textcase.
-sty"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\textcase\textca
+se.sty"
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
-Package: amssymb 2009/06/22 v3.00
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks16
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
-Package: amsmath 2000/07/18 v2.13 AMS math features
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen102
 )
-LaTeX Info: Redefining \text on input line 53.
+LaTeX Info: Redefining \text on input line 39.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen103
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count94
-LaTeX Info: Redefining \frac on input line 211.
+LaTeX Info: Redefining \frac on input line 210.
 \uproot@=\count95
 \leftroot@=\count96
-LaTeX Info: Redefining \overline on input line 307.
+LaTeX Info: Redefining \overline on input line 306.
 \classnum@=\count97
 \DOTSCASE@=\count98
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box41
 \strutbox@=\box42
 \big@size=\dimen104
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count99
 \c@MaxMatrixCols=\count100
 \dotsspace@=\muskip10
@@ -164,14 +166,15 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \multlinegap=\skip45
 \multlinetaggap=\skip46
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-("C:\Users\Peter J Weck\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.s
+ty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip47
 \bibsep=\skip48
@@ -180,8 +183,8 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
 
-("C:\Users\Peter J Weck\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\revsymb4-1.
-sty"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex\revsymb4
+-1.sty"
 Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
 or documentation)
 LaTeX Info: Redefining \frak on input line 95.
@@ -245,8 +248,8 @@ Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
 LaTeX Info: Redefining \bm on input line 204.
 )
-("C:\Users\Peter J Weck\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.
-sty"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titles
+ec.sty"
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box47
 \beforetitleunit=\skip53
@@ -265,7 +268,9 @@ Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 32.
 Class revtex4-1 Info: cite was not loaded (OK!) on input line 32.
 Class revtex4-1 Info: mcite was not loaded (OK!) on input line 32.
 Class revtex4-1 Info: multicol was not loaded (OK!) on input line 32.
- ("C:\Users\Peter J Weck\Documents\SSX\ssx_CHplane_2014\SSX PE paper2.aux")
+
+("C:\Users\David Schaffner\Documents\GitHub\ssx_CHplane_2014\SSX PE paper2.aux"
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
@@ -279,8 +284,8 @@ LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 
-("C:\Users\Peter J Weck\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mk
-ii"
+("C:\Users\David Schaffner\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf
+.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count113
 \scratchdimen=\dimen119
@@ -296,109 +301,74 @@ ii"
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 39.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 39.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{C:/Users/David Schaffner/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+}]
 
-Package natbib Warning: Citation `schaffner2014a' on page 1 undefined on input 
-line 48.
-
-
-Package natbib Warning: Citation `schaffner2014b' on page 1 undefined on input 
-line 48.
+Package natbib Warning: Citation `tu1990' on page 2 undefined on input line 50.
 
 
-Package natbib Warning: Citation `schaffner2014c' on page 1 undefined on input 
-line 48.
-
-
-Package natbib Warning: Citation `schaffner2014b' on page 1 undefined on input 
-line 48.
-
-[1{C:/Users/Peter J Weck/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
 Package natbib Warning: Citation `maggs1996' on page 2 undefined on input line 
-52.
+54.
 
 [2] <fig1new.png, id=26, 578.16pt x 433.62pt>
 File: fig1new.png Graphic file (type png)
  <use fig1new.png>
-Package pdftex.def Info: fig1new.png used on input line 81.
+Package pdftex.def Info: fig1new.png used on input line 83.
 (pdftex.def)             Requested size: 241.84842pt x 181.38472pt.
 
 <spectra.png, id=28, 291.9708pt x 262.8219pt>
 File: spectra.png Graphic file (type png)
  <use spectra.png>
-Package pdftex.def Info: spectra.png used on input line 87.
+Package pdftex.def Info: spectra.png used on input line 89.
 (pdftex.def)             Requested size: 241.84842pt x 217.70097pt.
- [3 <C:/Users/Peter J Weck/Documents/SSX/ssx_CHplane_2014/fig1new.png> <C:/User
-s/Peter J Weck/Documents/SSX/ssx_CHplane_2014/spectra.png>] [4]
-("C:\Users\Peter J Weck\Documents\SSX\ssx_CHplane_2014\SSX PE paper2.bbl"
-Underfull \hbox (badness 10000) in paragraph at lines 92--101
- []\OT1/cmr/m/n/9 E. Olof-sen, J. W. Sleigh,  and A. Da-han,
- []
+ [3 <C:/Users/David Schaffner/Documents/GitHub/ssx_CHplane_2014/fig1new.png> <C
+:/Users/David Schaffner/Documents/GitHub/ssx_CHplane_2014/spectra.png>] [4] [5]
 
-
-Underfull \hbox (badness 5245) in paragraph at lines 92--101
- \OT1/cmr/m/n/9 British Jour-nal of Anaes-the-sia \OT1/cmr/bx/n/9 101\OT1/cmr/m
-/n/9 , 810 (2008),
- []
-
-
-Overfull \hbox (30.99054pt too wide) in paragraph at lines 92--101
- \OT1/cmr/m/n/9 http://bja.oxfordjournals.org/content/101/6/810.full.pdf+html. 
-
- []
-
-Missing character: There is no Ã in font cmr9!
-Missing character: There is no © in font cmr9!
-Missing character: There is no Ã in font cmr9!
-Missing character: There is no © in font cmr9!
-
-Underfull \hbox (badness 1527) in paragraph at lines 193--199
- []\OT1/cmr/m/n/9 X. Sun, Y. Zou, V. Niki-forova, J. Kurths,  and
- []
-
+("C:\Users\David Schaffner\Documents\GitHub\ssx_CHplane_2014\SSX PE paper2.bbl"
 )
 
 Package natbib Warning: There were undefined citations.
 
-[5] ("C:\Users\Peter J Weck\Documents\SSX\ssx_CHplane_2014\SSX PE paper2.aux") 
-) 
+[6]
+("C:\Users\David Schaffner\Documents\GitHub\ssx_CHplane_2014\SSX PE paper2.aux"
+) ) 
 Here is how much of TeX's memory you used:
- 4512 strings out of 493921
- 58225 string characters out of 3144855
- 140884 words of memory out of 3000000
- 7758 multiletter control sequences out of 15000+200000
+ 4554 strings out of 493921
+ 59121 string characters out of 3144846
+ 138965 words of memory out of 3000000
+ 7800 multiletter control sequences out of 15000+200000
  15387 words of font info for 56 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 34i,14n,27p,2496b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmti9.pfb>
-Output written on "SSX PE paper2.pdf" (5 pages, 537343 bytes).
+ 34i,14n,28p,2502b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti9.pfb>
+Output written on "SSX PE paper2.pdf" (6 pages, 540715 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
+ 102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
