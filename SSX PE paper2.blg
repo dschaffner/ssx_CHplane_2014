@@ -33,6 +33,8 @@ Warning--I didn't find a database entry for "amigo2008"
 Warning--I didn't find a database entry for "riedl2013"
 Warning--I didn't find a database entry for "maggs2012"
 Warning--I didn't find a database entry for "torrence1998"
+Warning--I didn't find a database entry for "SahraouiPRL2006"
+Warning--I didn't find a database entry for "YordanovaPRL2008"
 Warning--I didn't find a database entry for "friedman2012"
 control{REVTEX41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
 control{apsrev41Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
@@ -45,4 +47,4 @@ Control: production of article title (-1) disabled
 Control: page (0) single
 Control: year (1) truncated
 Control: production of eprint (0) enabled
-(There were 34 warnings)
+(There were 36 warnings)
