@@ -1,6 +1,7 @@
-\documentclass[aps,pre,twocolumn,secnumarabic,nobalancelastpage,amsmath,amssymb,
+\documentclass[aps,prx,twocolumn,secnumarabic,nobalancelastpage,amsmath,amssymb,
 nofootinbib]{revtex4-1}
 % \documentclass[12pt,letterpaper,oneside]{report}
+
 
 \usepackage{graphics}      % standard graphics specifications
 \usepackage{graphicx}      % alternative graphics specifications
@@ -28,6 +29,8 @@ nofootinbib]{revtex4-1}
 % \pagestyle{fancy}
 % \lhead{Peter Weck} \chead{Permutation entropy analysis of dynamical turbulence} \rhead{June 24, 2014}
 
+\usepackage{epstopdf}
+
 \setlength{\parskip}{5pt}
 \begin{document}
 \title{Permutation Entropy and Statistical Complexity Analysis of Turbulence in Laboratory Plasmas and the Solar Wind}
@@ -41,9 +44,9 @@ The Bandt-Pompe permutation entropy and the Jensen-Shannon statistical complexit
 \maketitle
 
 \section{Introduction}
-Since Bandt and Pompe introduced their probability distribution based on ordinal patterns in arbitrary time series in 2002 \cite{bandt2002}, their methodology has found a wide variety of applications, from tracking the effects of anesthetic drugs on the brain \cite{li2010,jordan2008,olofsen2008} to informing economic policy \cite{bariviera2013,zunino2010,zunino2011} to many others areas \cite{kowalski2007,soriano2011,saco2010,suyal2012,sun2010}. In 2007, Rosso \textit{et al} applied the ordinal pattern distribution of Bandt and Pompe to a time series analysis using the complexity-entropy plane, or ``CH plane'', capable of differentiating between periodic, chaotic, and stochastic systems \cite{rosso2007}. The CH plane has been used to determine the statistical character of fluctuations in several plasma systems, including magnetic flux ropes \cite{gekelman2014} and electron heat transport \cite{maggs2013}. However this approach has yet to be extended to the study of dynamical MHD turbulence, either in the solar wind or in laboratory MHD plasma. The purpose of this paper is to provide the CH plane coordinates for these turbulent systems and compare to previous results, as well as to further the interpretation of this analysis tool for the study of turbulent plasma systems.
+Since Bandt and Pompe introduced their probability distribution based on ordinal patterns in arbitrary time series in 2002 \cite{bandt2002}, their methodology has found a wide variety of applications, from tracking the effects of anesthetic drugs on the brain \cite{li2010,jordan2008,olofsen2008} to informing economic policy \cite{bariviera2013,zunino2010,zunino2011} to various other areas \cite{kowalski2007,soriano2011,saco2010,suyal2012,sun2010}. In 2007, Rosso \textit{et al} applied the ordinal pattern distribution of Bandt and Pompe to a time series analysis using the complexity-entropy plane, or ``CH plane'', capable of differentiating between periodic, chaotic, and stochastic systems \cite{rosso2007}. The CH plane has been used to determine the statistical character of fluctuations in several plasma systems, including magnetic flux ropes \cite{gekelman2014} and electron heat transport \cite{maggs2013}. However this approach has yet to be extended to the study of dynamical MHD turbulence, either in the solar wind or in laboratory MHD plasma. The purpose of this paper is to provide the CH plane coordinates for these turbulent systems and compare to previous results, as well as to further the interpretation of this analysis tool for the study of turbulent plasma systems.
 
-We compute the values of permutation entropy and Jenson-Shannon complexity for magnetic fluctuations of SSX and the solar wind and the ion saturation current ($I_{\rm sat}$) fluctuations of the LAPD edge. These values are then used as coordinates for placement in the CH plane for comparison among each other as well as to known chaotic and stochastic models. The results show that the magnetic solar wind fluctuations have the highest level of permutation entropy and lowest level of complexity, occupying a position on the lower right region of the CH plane, nearest that of pure white noise, which has zero complexity and maximal entropy. This result suggests that fully developed turbulence, as the solar wind is thought to represent, can be identified by its proximity to maximal stochasticity on the CH plane. The LAPD edge fluctuations have the highest level of complexity of the three measured data sets and occupies the middle region in permutation entropy. Previous work has shown that the LAPD drift-wave turbulence may be dominated by non-linear interactions of relatively small numbers of modes, and thus tend to exhibit more chaotic, complex behavior; thus, its coordinates occupy a position closest to known chaotic maps. Finally, the SSX fluctuations exhibit a level of complexity in between the other two plasmas. This suggests that the SSX plasma has more degrees of freedom in its fluctuations than the LAPD drift-wave plasma, but is not fully-developed turbulence or is constrained by the laboratory boundaries. The permutation entropy of the SSX magnetic fluctuations is relatively high or low depending on whether fluctuations in dB/dt ($\dot{B}(t)$) or temporally integrated B-field fluctuations (B(t)) are analyzed. This difference suggests that the level of entropy of a time series may be related to the rate of decrease in power as frequency increases.
+We compute the values of permutation entropy and Jenson-Shannon complexity for magnetic fluctuations of SSX and the solar wind and the ion saturation current ($I_{\rm sat}$) fluctuations of the LAPD edge. These values are then used as coordinates for placement in the CH plane for comparison among each other as well as to known chaotic and stochastic models. The results show that the magnetic solar wind fluctuations have the highest level of permutation entropy and lowest level of complexity, occupying a position on the lower right region of the CH plane, nearest that of pure white noise, which has zero complexity and maximal entropy. This result suggests that fully developed turbulence, as the solar wind is thought to represent, can be identified by its proximity to maximal stochasticity on the CH plane. The LAPD edge fluctuations have the highest level of complexity of the three measured data sets and occupies the middle region in permutation entropy. Previous work has shown that the LAPD drift-wave turbulence may be dominated by non-linear interactions of relatively small numbers of modes, and thus tend to exhibit more chaotic, complex behavior \cite{pace2008}; thus, its coordinates occupy a position closest to known chaotic maps. Finally, the SSX fluctuations exhibit a level of complexity in between the other two plasmas. This suggests that the SSX plasma has more degrees of freedom in its fluctuations than the LAPD drift-wave plasma, but is not fully-developed turbulence or is constrained by the laboratory boundaries. The permutation entropy of the SSX magnetic fluctuations is relatively high or low depending on whether fluctuations in dB/dt ($\dot{B}(t)$) or temporally integrated B-field fluctuations (B(t)) are analyzed. This difference suggests that the level of entropy of a time series may be related to the rate of decrease in power as frequency increases.
 
 It should be emphasized that the goal of this comparative study at this stage is to highlight the variations in outcomes of using this particular analysis tool, rather than attempting to unravel differences in the physical mechanisms underlying each dataset. In a sense, the work presented here was designed to be as physics-blind as possible. However, through study of how various mechanisms manifest in the complexity-entropy plane, a comprehensive physical understanding of each system can be pursued.
 
@@ -82,13 +85,13 @@ For interpretation the CH plane coordinates of experimental data, it is useful t
 %
 \begin{figure}[!htbp]
 \centerline{
-\includegraphics[width=8.5cm]{fig1new.png}}
+\includegraphics[width=8.5cm]{figure1.eps}}
 \caption{\label{fig:CHplane} The $n=5$ CH plane  with SSX $\dot{B}$ and $B$ (time-integrated from $\dot{B}$) data for two injected helicities, \textit{Wind} fast and slow stream $B$ data, LAPD edge plasma ion saturation current signals, and paradigmatic chaotic, periodic, and stochastic systems for comparison. The diamond, square, and triangular purple markers represent chaotic skew tent, Henon, and logisitic maps, respectively. The downward pointing triangle marks the position of the Sine function, and stochastic fBm points are shown in black. Crescent shaped curves show the maximum and minimum possible $C_{JS}$ for a given $PE_{\text{norm}}$. Error bars indicate standard deviation from the ensemble average. Solar wind bars are smaller than the displayed size of the markers.}
 \end{figure}
 %
 \begin{figure}[!htbp]
 \centerline{
-\includegraphics[width=8.5cm]{spectra.png}}
+\includegraphics[width=8.5cm]{figure2.eps}}
 \caption{\label{fig:spectra} Spectra of LAPD edge $I_{\rm sat}$ fluctuations, SSX magnetic fluctuations and solar wind magnetic fluctuations. Each spectrum is normalized to a different time scale: LAPD is normalized to 500Hz; SSX is normalized to 12.8kHz; solar wind is normalized to 165$\mu$Hz. Analytic forms for an exponential, a -11/3 power-law, and a -5/3 power-law (Kolmogorov) are indicated by the black lines. The power scale is arbitrary as the emphasis here is on the shape of the curves, not the relative power content of the spectra. The three spectra indicate a clear transition from exponential-like to power-law like broadband spectra.}
 \end{figure}
 %
@@ -123,38 +126,32 @@ Next, the meaning of turbulence in the context of the nature of these fluctuatio
  
 Finally, some discussion of how this analysis may be related to the typical measure of degrees of freedom in a turbulent plasma---Reynolds number---is warranted. Reynolds number, whether in reference to flow or magnetic turbulence (i.e. $Re$ or $R_{m}$), can be defined as the ratio of energy injection scale to energy dissipation scale in a turbulent cascade, and as such, can be interpreted as the number of degrees of freedom available to the system (or in other words, how many different scales energy can occupy between input and output). The magnetic Reyonlds number for the solar wind is typically on the order of $1 \times 10^7$ while SSX magnetic Reynolds numbers have been calculated (based on typical length scales and assuming Spizter resistivity as the dissipative mechanism) to be on the order of $1 \times 10^2$. Thus, Reynolds number shows a separation between solar wind data and SSX data though only in one dimension and qualitatively matches the difference in degrees of freedom suggested by the CH analysis. A complication arises when the LAPD data is introduced for comparison. Reynolds numbers are predicated on the separation of energy injection and dissipation scales. However, drift-wave turbulence may not have a clear separation of scales as energy can potentially be injected or dissipated at different scales~\cite{friedman2012}, and thus a Reynolds number may have less meaning in this case. The complexity-entropy analysis performed here, on the other hand, does not rely on any specific physics model and thus can be used to compare disparate systems.
 
-%The LAPD edge plasma signals analyzed occupy the central region of the plane which has previously been associated with more chaotic than stochastic dynamics in experimental data \cite{maggs2013, gekelman2014}. The SSX turbulence data at the $0.0$ mWb and $1.0$ mWb stuffing flux settings, on the other hand, occupy a higher entropy range comparable to fractional Brownian motion with positive correlation between successive increments of motion. The proximity of SSX $\dot{B}$ signals to stochastic processes like fBm suggest that these signals are dominated by stochastic rather than chaotic dynamics. Furthermore, the relative  positions of SSX and LAPD sources on the $PE_{\text{norm}} \times C_{JS}$ plane indicate that the SSX plasma source is more truly turbulent than the LAPD edge plasma. 
-
-%According to these metrics, magnetic fluctuations in the solar wind near $1$ AU more random than either wind tunnel MHD turbulence or , supporting identification of faster streams with more stochastic dynamics.  
-
-%Although little spread was observed in either the \textit{Wind} or LAPD data analyzed, significant spread was seen in the complexity and entropy of SSX $\dot{B}$ signals. Perhaps the most interesting contribution to this spread was from injected helicity.  Figure 2 shows the helicity dependence of SSX $\dot{B}$ data, plotting CH positions for signals over a scan of stuffing fluxes measured at the innermost channel of the probe, averaged over directions and shots. The same ordinal pattern parameters used to generate Figure 1 ($n=5$ and $\tau=8$) were used in Figure 2. There is a clear increasing trend in complexity up to $0.5$ mWb, after which the complexity decreases with stuffing flux. As a result the data executes a tight "loop" in the plane extending up just past $C_{JS}=0.3$ with normalized entropies between $0.68$ and $0.78$. Thus the degree of twistedness in the injected spheromak has consequences for the degree of correlational structure in the the resulting relaxation dynamics.
-
-%In some cases, additional information can be gained about the underlying dynamics of a system by examining the permutation entropy and Jensen-Shannon complexity as functions of the embedding delay $\tau$ \cite{zunino2012}. Figure 3 compares SSX $\dot{B}$ signals averaged over all shots, directions, and inner four probe channels to the corresponding $B$ signals obtained by integrating $\dot{B}$ for a scan of the embedding delay from $\tau=1$ to $\tau=150$ ($\tau=1$, $5$, and then $10$, $20$, etc. in steps of $10$). As before, the length-preserving method was employed. However, despite the use of the length preserving method, useful statistics seem only to be obtainable for our 1300 value series up to $\tau \approx 50$. For larger embedding delays, the number of length $n$ segments used in calculating the ordinal pattern distribution is reduced by over $15$\%. The poorly "filled out" PDF manifests itself in artificially high complexities-  note the abrupt hook shapes executed by the trajectories of both $B$ and $\dot{B}$ data near $\tau=50$. 
-
 \section{Conclusion}
-In this paper, spectrally-broadband magnetic fluctuations in laboratory and astrophysical plasmas have been analyzed for the first time using the ordinal pattern-based CH plane introduced by Rosso \textit{et al}. Comparing the relative coordinates of drift-wave, MHD wind tunnel, and solar wind plasmas, it was found that the three systems occupy different regions of the CH plane, suggesting that despite the broad-band spectra exhibited by all these systems, the CH analysis is capable of highlighting differences in the underlying nature of the fluctuations particularly among drift-wave, partially developed, and fully developed turbulence. Drift-wave turbulence is thought to be a result of the nonlinear interactions of relatively few modes while fully developed turbulence contains too many modes to distinguish; it appears that the entropy-complexity analysis of these magnetized plasmas effectively highlights of the number of degrees of freedom of the system in question. In particular, the smaller number of modes generating drift-wave turbulence in LAPD edge plasmas are revealed by the low-middle entropy and middle-range complexity of that system, while the high entropy and low complexity of magnetic fluctuations in the solar wind may reflect the multitude of degrees of freedom active in that system. The analysis also showed that variations in permutation entropy maybe be related to power-law scaling of the spectra; in other words, permutation entropy may be proportional to more even distribution of energy among spectral frequencies. Based on the relative CH positions of SSX MHD wind tunnel and $\textit{Wind}$ data, although SSX is on its way towards the highly stochastic turbulence in the solar wind, this analysis indicates that further steps are needed for SSX  to more accurately model solar wind turbulence. The confined nature of the experiment and short lifetimes involved are both potential contributors to the discrepancy in CH positions. Other than the boundary conditions imposed by astrophysical bodies, the solar wind is an unconfined and extremely long lived plasma. Whether one or both of these parameters could be varied to reduce the complexity and increase the entropy of SSX to that of the solar wind is an open question. In any case, the CH methodology has provided us with one more means of comparison and another avenue for understanding turbulence in plasmas.
+In this paper, spectrally-broadband magnetic fluctuations in laboratory and astrophysical plasmas have been analyzed for the first time using the ordinal pattern-based CH plane introduced by Rosso \textit{et al}. Comparing the relative coordinates of drift-wave, MHD wind tunnel, and solar wind plasmas, it was found that the three systems occupy different regions of the CH plane, suggesting that despite the broad-band spectra exhibited by all these systems, the CH analysis is capable of highlighting differences in the underlying nature of the fluctuations, particularly among drift-wave, partially developed, and fully developed turbulence. Drift-wave turbulence is thought to be a result of the nonlinear interactions of relatively few modes while fully developed turbulence contains too many modes to distinguish; it appears that the entropy-complexity analysis of these magnetized plasmas effectively highlights the number of degrees of freedom of the system in question. In particular, the smaller number of modes generating drift-wave turbulence in LAPD edge plasmas are revealed by the low-middle entropy and middle-range complexity of that system, while the high entropy and low complexity of magnetic fluctuations in the solar wind may reflect the multitude of degrees of freedom active in that system. The analysis also showed that variations in permutation entropy maybe be related to power-law scaling of the spectra; in other words, permutation entropy may be proportional to the eveness of energy distribution among spectral frequencies. Based on the relative CH positions of SSX MHD wind tunnel and $\textit{Wind}$ data, although SSX is on its way towards the highly stochastic turbulence in the solar wind, this analysis indicates that further steps are needed for SSX  to more accurately model solar wind turbulence. The confined nature of the experiment and short lifetimes involved are both potential contributors to the discrepancy in CH positions. Other than the boundary conditions imposed by astrophysical bodies, the solar wind is an unconfined and extremely long lived plasma. Whether one or both of these parameters could be varied to reduce the complexity and increase the entropy of SSX to that of the solar wind is an open question. In any case, the CH methodology has provided us with another avenue for comparing and understanding turbulence in plasmas.
 
 The authors gratefully acknowledge useful discussions with Jim Maggs, George Morales, Walter Gekelman, Brett Friedman, Troy Carter and Danny Guice. This work is supported by DOE OFES and NSF CMSO.
 
 \begin{thebibliography}{99}
+\bibitem{bandt2002}
+C. Bandt and B. Pompe. Phys. Rev. Lett. {\bf 88} 174102 (2002).
+
+\bibitem{jordan2008}
+D. Jordan, G. Stockmanns, E. F. Kochs, S. Pilge, and G. Schneider. Anesthesiology. {\bf 109} 1014 (2008).
+
+\bibitem{olofsen2008}
+E. Olofsen, J.W. Sleigh, and A. Dahan. Br J Anaesth. {\bf 101} 810 (2008).
+
+\bibitem{li2010}
+D. Li, X. Li, Z. Liang et al. J Neural Eng. {\bf 7} 046010 (2010).
 
 \bibitem{bariviera2013}
 A.F. Bariviera, L. Zunino, M. B. Guercio et al. J. Stat. Mech. Theor. Exp. {\bf 2013} P08007 (2013).
 
-\bibitem{gekelman2014}
-W. Gekelman, B. Van Compernolle, T. DeHaas, and S. Vincena. Plasma Physics. Cont. Fusion. {\bf 56} 064002 (2014).
+\bibitem{zunino2010}
+L. Zunino, Z. Massililiano, B. M. Tabak et al. Physica A. {\bf 389} 1891 (2010).
 
-\bibitem{lopez1995}
-R. L{\'o}pez-Ruiz, H.L. Mancini, and X. Calbet. Phys. Lett. A. {\bf 209} 321 (1995).
-
-\bibitem{amigo2008}
-J. M. Amig{\'o}, S. Zambrano, M. A. F. Sanju{\'a}n. Europhys. Lett. {\bf 83} 60005 (2008).
-
-\bibitem{calbet2001}
-X. Calbet and R.  L{\'o}pez-Ruiz. Phys. Rev. E. {\bf 63} 066116 (2001).
-
-\bibitem{jordan2008}
-D. Jordan, G. Stockmanns, E. F. Kochs, S. Pilge, and G. Schneider. Anesthesiology. {\bf 109} 1014 (2008).
+\bibitem{zunino2011}
+L. Zunino, B.M. Tabak, S. Francesco et al. Physica A. {\bf 390} 876 (2011).
 
 \bibitem{suyal2012}
 V. Suyal, A. Prasad, and H.P. Singh. Sol. Phys. {\b 276} 407 (2012).
@@ -165,23 +162,29 @@ X. Sun, Y. Zou, V. Nikiforova et al. BMC Bioinformatics. {\bf 11} 607 (2010).
 \bibitem{saco2010}
 P. M. Saco, L.C. Carpi, A. Figliola et al. Physicsa A. {\bf 389} 5022 (2010).
 
-\bibitem{olofsen2008}
-E. Olofsen, J.W. Sleigh, and A. Dahan. Br J Anaesth. {\bf 101} 810 (2008).
+\bibitem{soriano2011}
+M.C. Soriano, L. Zunino, O.A. Rosso et al. IEEE J. Quantum Electron. {\bf 47} 252 (2011).
 
-\bibitem{zhang2011}
-X. Zhang, D. Dandurand, T. Gray et al. Rev. Sci. Instrum. {\bf 82} 033510 (2011).
+\bibitem{kowalski2007}
+A.M. Kowalski, M.T. Mart{\'i}n, A. Plastino et al. Physica D. {\bf 233} 21 (2007).
 
-\bibitem{schaffner2014a}
-D. A. Schaffner, V.S. Lukin, A. Wan and M.R. Brown. Plasma Physics Cont. Fusion. {\bf 56} 20 (2014).
+\bibitem{rosso2007}
+O.A. Rosso, H.A. Larrondo, M.T. Martin et al. Phys. Rev. Lett. {\bf 99} 154102 (2007).
 
-\bibitem{gekelman1991}
-W. Gekelman, H. Pfister, Z. Lucky, et al. Rev. Sci. Instrum. {\bf 62} 2875 (1991).
+\bibitem{gekelman2014}
+W. Gekelman, B. Van Compernolle, T. DeHaas, and S. Vincena. Plasma Physics. Cont. Fusion. {\bf 56} 064002 (2014).
+
+\bibitem{maggs2013}
+J.E. Maggs and G.J. Morales. Plasma Physics Cont. Fusion. {\bf 55} 085015 (2013).
+
+\bibitem{pace2008}
+D.C. Pace, M. Shi, J.E. Maggs, G.J. Morales, and T.A. Carter. Phys. Plasmas. {\bf 15} 122304 (2008).
 
 \bibitem{gray2013}
 T. Gray, M.R. Brown, and D. Dandurand. Phys. Rev. Lett. {\bf 110} 085002 (2013).
 
-\bibitem{li2010}
-D. Li, X. Li, Z. Liang et al. J Neural Eng. {\bf 7} 046010 (2010).
+\bibitem{schaffner2014a}
+D. A. Schaffner, V.S. Lukin, A. Wan and M.R. Brown. Plasma Physics Cont. Fusion. {\bf 56} 20 (2014).
 
 \bibitem{schaffner2014b}
 D.A. Schaffner, A. Wan, M.R. Brown. Phys. Rev. Lett. {\bf 112} 165001 (2014).
@@ -198,50 +201,8 @@ C.-Y. Tu, E. Marsch and H. Rosenbauer. Geophys. Res. Lett. {\bf 17} 283 (1990).
 \bibitem{bruno2013}
 R. Bruno and V. Carbone. Living Rev Solar Phys {\bf 10} (2013).
 
-\bibitem{lamberti2004}
-P.W. Lamberti, M.T. Martin, A. Plastino et al. Physica A. {\bf 334} 119 (2004).
-
-\bibitem{maggs2012}
-J.E. Maggs and G.J. Morales. Plasma Physics Cont. Fusion. {\bf 54} 124041 (2012).
-
-\bibitem{rosso2007}
-O.A. Rosso, H.A. Larrondo, M.T. Martin et al. Phys. Rev. Lett. {\bf 99} 154102 (2007).
-
-\bibitem{bandt2005}
-C. Bandt. Ecol Model. {\bf 182} 229 (2005).
-
-\bibitem{zanin2012}
-M. Zanin, L. Zunino, O.A. Rosso et al. Entropy. {\bf 14} 1553 (2012).
-
-\bibitem{maggs2013}
-J.E. Maggs and G.J. Morales. Plasma Physics Cont. Fusion. {\bf 55} 085015 (2013).
-
-\bibitem{riedl2013}
-M. Riedl, A. M{\"u}ller, and N. Wessel. Eur. Phys. J. Spec. Top. {\bf 222} 249 (2013).
-
-\bibitem{zunino2012}
-L. Zunino, M.C. Soriano, and O.A. Rosso. Phys Rev E. {\bf 86} 046210 (2012).
-
-\bibitem{zunino2010}
-L. Zunino, Z. Massililiano, B. M. Tabak et al. Physica A. {\bf 389} 1891 (2010).
-
-\bibitem{zunino2011}
-L. Zunino, B.M. Tabak, S. Francesco et al. Physica A. {\bf 390} 876 (2011).
-
-\bibitem{soriano2011}
-M.C. Soriano, L. Zunino, O.A. Rosso et al. IEEE J. Quantum Electron. {\bf 47} 252 (2011).
-
-\bibitem{kowalski2007}
-A.M. Kowalski, M.T. Mart{\'i}n, A. Plastino et al. Physica D. {\bf 233} 21 (2007).
-
-\bibitem{feldman1998}
-D.P. Feldman and J.P. Crutchfield. Phys Lett A. {\bf 238} 244 (1998).
-
-\bibitem{bandt2002}
-C. Bandt and B. Pompe. Phys. Rev. Lett. {\bf 88} 174102 (2002).
-
-\bibitem{torrence1998}
-C. Torrence and G.P. Compo. Bull. Am. Meterol. Soc. {\bf 79} 6178 (1998).
+\bibitem{gekelman1991}
+W. Gekelman, H. Pfister, Z. Lucky, et al. Rev. Sci. Instrum. {\bf 62} 2875 (1991).
 
 \bibitem{schaffner2012}
 D.A. Schaffner, T.A. Carter, G.D. Rossi et al. Phys. Rev. Lett. {\bf 109} 135002 (2012).
@@ -249,14 +210,35 @@ D.A. Schaffner, T.A. Carter, G.D. Rossi et al. Phys. Rev. Lett. {\bf 109} 135002
 \bibitem{maggs1996}
 J.E. Maggs and G.J. Morales GJ, Geophys. Res. Lett. {\bf 23} 633 (1996).
 
-\bibitem{friedman2012}
-B. Friedman, T.A. Carter, M.V. Umansky et al. Phys. Plasmas. {\bf 19} 102307 (2012).
+\bibitem{bandt2005}
+C. Bandt. Ecol Model. {\bf 182} 229 (2005).
+
+\bibitem{lopez1995}
+R. L{\'o}pez-Ruiz, H.L. Mancini, and X. Calbet. Phys. Lett. A. {\bf 209} 321 (1995).
+
+\bibitem{calbet2001}
+X. Calbet and R.  L{\'o}pez-Ruiz. Phys. Rev. E. {\bf 63} 066116 (2001).
+
+\bibitem{amigo2008}
+J. M. Amig{\'o}, S. Zambrano, M. A. F. Sanju{\'a}n. Europhys. Lett. {\bf 83} 60005 (2008).
+
+ \bibitem{riedl2013}
+M. Riedl, A. M{\"u}ller, and N. Wessel. Eur. Phys. J. Spec. Top. {\bf 222} 249 (2013).
+
+\bibitem{maggs2012}
+J.E. Maggs and G.J. Morales. Plasma Physics Cont. Fusion. {\bf 54} 124041 (2012).
+
+\bibitem{torrence1998}
+C. Torrence and G.P. Compo. Bull. Am. Meterol. Soc. {\bf 79} 6178 (1998).
 
 \bibitem{SahraouiPRL2006}
 F. Sahraoui, G. Belmont, L. Rezeau, et al. Phys. Rev. Lett. {\bf 96} 075002 (2006).
 
 \bibitem{YordanovaPRL2008}
 E. Yordanova, A. Vaivads, M. Andre et al. Phys. Rev. Lett. {\bf 100} 205003 (2008).
+
+\bibitem{friedman2012}
+B. Friedman, T.A. Carter, M.V. Umansky et al. Phys. Plasmas. {\bf 19} 102307 (2012).
 
 \end{thebibliography}
 
