@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.26)  4 SEP 2014 14:40
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.26)  18 SEP 2014 14:13
 entering extended mode
 **C:/Users/David*Schaffner/Documents/GitHub/ssx_CHplane_2014/SSX*PE*paperV3.tex
 
@@ -415,13 +415,13 @@ erted-to.pdf>] [5]
 ("C:\Users\David Schaffner\Documents\GitHub\ssx_CHplane_2014\SSX PE paperV3.aux
 ") ) 
 Here is how much of TeX's memory you used:
- 4917 strings out of 493921
- 65957 string characters out of 3144846
- 167768 words of memory out of 3000000
- 8131 multiletter control sequences out of 15000+200000
+ 4921 strings out of 493921
+ 66033 string characters out of 3144846
+ 169440 words of memory out of 3000000
+ 8135 multiletter control sequences out of 15000+200000
  15387 words of font info for 56 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,14n,28p,2484b,337s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,14n,28p,2484b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:
@@ -440,7 +440,7 @@ ts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmti9.pfb>
-Output written on "SSX PE paperV3.pdf" (6 pages, 313861 bytes).
+Output written on "SSX PE paperV3.pdf" (6 pages, 314148 bytes).
 PDF statistics:
  210 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
