@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=latex 2013.3.26)  5 DEC 2014 14:24
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=latex 2013.3.26)  9 DEC 2014 13:31
 entering extended mode
 **SSX*PE*paperV3_resubmit.tex
 ("C:\Users\David Schaffner\Documents\GitHub\ssx_CHplane_2014\SSX PE paperV3_resubmit.tex"
@@ -331,12 +331,12 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
-Underfull \hbox (badness 5847) in paragraph at lines 39--40
+Underfull \hbox (badness 5847) in paragraph at lines 41--42
 []\OT1/cmr/m/n/10 Bandt-Pompe Per-mu-ta-tion en-tropy and Jensen-
  []
 
 [2]
-Overfull \hbox (3.23587pt too wide) in paragraph at lines 62--62
+Overfull \hbox (3.23587pt too wide) in paragraph at lines 64--64
 [] 
  []
 
@@ -351,22 +351,22 @@ File: figure1.eps Graphic file (type eps)
 File: figure2.eps Graphic file (type eps)
  <figure2.eps> [4]
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 89.
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 88.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 []\OT1/cmr/m/n/10 Finally, SSX mag-netic fluc-tu-a-tions have en-
  []
 
 [5] [6] ("C:\Users\David Schaffner\Documents\GitHub\ssx_CHplane_2014\SSX PE paperV3_resubmit.bbl") [7]
 ("C:\Users\David Schaffner\Documents\GitHub\ssx_CHplane_2014\SSX PE paperV3_resubmit.aux") ) 
 Here is how much of TeX's memory you used:
- 4423 strings out of 493922
- 59137 string characters out of 3144869
- 164888 words of memory out of 3000000
- 7645 multiletter control sequences out of 15000+200000
+ 4427 strings out of 493922
+ 59211 string characters out of 3144869
+ 144179 words of memory out of 3000000
+ 7649 multiletter control sequences out of 15000+200000
  15387 words of font info for 56 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,14n,28p,2434b,347s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,14n,28p,2467b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on "SSX PE paperV3_resubmit.dvi" (7 pages, 52192 bytes).
+Output written on "SSX PE paperV3_resubmit.dvi" (7 pages, 55340 bytes).
